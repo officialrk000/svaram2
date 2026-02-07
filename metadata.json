@@ -1,0 +1,5 @@
+{
+  "name": "Svaram - Premium Music Player",
+  "description": "High-fidelity music streaming application with mandatory auth and GSheets integration.",
+  "requestFramePermissions": []
+}
